@@ -7,7 +7,7 @@ I used free assets from the Unity Asset Store for my Player, Enemies, Music and 
 ## State Machines:
 I made fully functional state machines for both my player and enemies. I also made the animations with the sprite images.
 ### Player:
-![PlayerState](https://github.com/NathanielRus/TTA-Live-Project/blob/main/Live%20Project/state%20machine.PNG)
+![PlayerState](https://github.com/NathanielRus/TTA-Live-Project/blob/main/Live%20Project/Animations/Animations.gif)
 ### Enemy:
 ![EnemyState](https://github.com/NathanielRus/TTA-Live-Project/blob/main/Live%20Project/Enemy%20State%20Machine.PNG)
 ## Movement:
