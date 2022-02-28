@@ -16,4 +16,5 @@ Player and Enemy states determined the actions that could be taken. Like the wal
 ## Stats:
 I made it so that I could easily change different parameters to my Player from Unity.
 ![PlayerStats](https://github.com/NathanielRus/TTA-Live-Project/blob/main/Live%20Project/PlayerStats.PNG)
-
+## Enemy AI:
+![EnemyLogic](https://github.com/NathanielRus/TTA-Live-Project/blob/main/Live%20Project/EnemyLogic.PNG)
