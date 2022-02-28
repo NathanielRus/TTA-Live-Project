@@ -10,3 +10,6 @@ I made fully functional state machines for both my player and enemies. I also ma
 ![PlayerState](https://github.com/NathanielRus/TTA-Live-Project/blob/main/Live%20Project/state%20machine.PNG)
 ### Enemy:
 ![EnemyState](https://github.com/NathanielRus/TTA-Live-Project/blob/main/Live%20Project/Enemy%20State%20Machine.PNG)
+### Movement:
+Player and Enemy states determined the actions that could be taken. Like the wall jump I coded into the Player movement.
+![WallJump](https://github.com/NathanielRus/TTA-Live-Project/blob/main/Live%20Project/WallJump.PNG)
